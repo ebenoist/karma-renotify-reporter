@@ -1,0 +1,6 @@
+{
+  "host": "renotify.us",
+  "port": 80,
+  "path": "/api/v1/messages",
+  "key": "your_api_key"
+}
