@@ -34,9 +34,9 @@ Based on [karma-osx-reporter](https://github.com/petrbela/karma-osx-reporter).
     }
     ```
 2. Install a valid config at ~/.renofity.cfg.json
-```BASH
-cp node_modules/karma-renotify-reporter/renotify.cfg.json.example ~/.renotify.cfg.json
-```
+  ```BASH
+  cp node_modules/karma-renotify-reporter/renotify.cfg.json.example ~/.renotify.cfg.json
+  ```
 
 3. Add it as a reporter in the karma config file
 
