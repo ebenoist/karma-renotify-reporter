@@ -1,0 +1,31 @@
+{
+  "name": "karma-renotify-reporter",
+  "version": "0.0.1",
+  "description": "A Karma plugin. Report results to ReNotify.us.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ebenoist/karma-renotify-reporter.git"
+  },
+  "bugs": {
+    "url": "http://github.com/ebenoist/karma-renotify-reporter/issues",
+    "email": "ebenoist@gmail.com"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "browser",
+    "websockets",
+    "remote",
+    "pairing",
+    "renotify"
+  ],
+  "author": "Erik Benoist <ebenoist@gmail.com>",
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT"
+}
